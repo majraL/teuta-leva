@@ -1,0 +1,21 @@
+{
+  "name": "teuta-leva",
+  "description": "art apge",
+  "main": "",
+  "authors": [
+    "majraL <dejan.lipovac@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/majraL/teuta-leva",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gridster-js": "^0.7.0"
+  }
+}

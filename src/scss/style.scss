@@ -1,0 +1,23 @@
+@import "settings";
+
+body{
+  background-color: white;
+	color: rgb(50,50,50);
+	text-transform: uppercase;
+}
+
+.gridster li {
+	list-style: none;
+}
+
+.red {
+	background: red;
+}
+
+.blue {
+	background: blue;
+}
+
+.molim {
+  color: $white;
+}

@@ -1,0 +1,16 @@
+body {
+  background-color: white;
+  color: #323232;
+  text-transform: uppercase; }
+
+.gridster li {
+  list-style: none; }
+
+.red {
+  background: red; }
+
+.blue {
+  background: blue; }
+
+.molim {
+  color: #fff; }
